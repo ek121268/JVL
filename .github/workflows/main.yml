@@ -1,4 +1,4 @@
-name: Checkmarx One Scan for JVL
+name: Checkmarx One Scan for JVL 1
 on:
   push:
     branches:
